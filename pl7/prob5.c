@@ -3,7 +3,7 @@
 void quociresto(int dividendo, int divisor, int *quociente, int *resto)
 {
     *quociente = 0;
-    while (dividendo > divisor)
+    while (dividendo >= divisor)
     {
         (*quociente)++;
         dividendo -= divisor;
