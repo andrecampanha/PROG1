@@ -4,7 +4,7 @@
 int conta(char *frase, char *palavra)
 {
     int cont = 0;
-    char *n = frase;
+    char *n = frase - 1;
     while((n = strstr(n + 1, palavra)) != NULL)
         cont++;
     return cont;
