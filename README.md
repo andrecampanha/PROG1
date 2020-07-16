@@ -1,2 +1,4 @@
 # PROG1
-Exercicios Prog1
+Exercicios PROG1 do MIEEC - FEUP 
+
+**Pode conter erros**
